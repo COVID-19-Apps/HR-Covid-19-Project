@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "675268139155",
+    "firebase_url": "https://hr-covid-19project.firebaseio.com",
+    "project_id": "hr-covid-19project",
+    "storage_bucket": "hr-covid-19project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675268139155:android:b29195b8796ab7edabd566",
+        "android_client_info": {
+          "package_name": "com.hrcovid19project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675268139155-jnhapa8ljqep0asoppqgmrj8709vq5d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeVIYEEAPMkHZ1ky1-3pc1hb0ggPHkOTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675268139155-jnhapa8ljqep0asoppqgmrj8709vq5d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
